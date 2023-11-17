@@ -9,3 +9,6 @@ Música espiritual para calmar espiritus de seres biotecnológicos creada por se
 
 # ENG
 Loopier (Roger Pibernat) is an illustrator and musician with a severe tinkering itch. He was part of the Barcelona Laptop Orchestra and co-founded the Wú collective, with whom he has developed electro-acoustic instruments, interactvie installations, audiovisual performances and experimental software. He developed the *Superfm* synth for TydalCycles and the live coding dialect for SuperCollider Živa. Teaming up with programmer and artist Glen Fraser, they have developed Animatron as a playground for live coded 2D animation. He is currently an active member of the live coding community in Barcelona. In all of his inventions, he tries to find ways to connect apparently unrelated systems, making things talk.
+
+# ENG (short)
+Loopier (Roger Pibernat) is an illustrator and live coder musician with poetic taste. He developed the *Superfm* synth for TydalCycles, the live coding dialect for SuperCollider Živa and --with Glen Fraser-- a playground for live coded animation named Animatron. He is currently an active member of the live coding community in Barcelona.
